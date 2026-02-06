@@ -1,0 +1,56 @@
+[
+  {
+    "country": "India",
+    "capital": "New Delhi",
+    "population": "1.43 Billion",
+    "interestingFacts": "India is the world’s largest democracy and one of the oldest civilizations. It is home to over 22 official languages and thousands of cultures."
+  },
+  {
+    "country": "United States",
+    "capital": "Washington, D.C.",
+    "population": "331 Million",
+    "interestingFacts": "The USA has the largest economy in the world. It is known for technological innovation and cultural influence through movies and music."
+  },
+  {
+    "country": "China",
+    "capital": "Beijing",
+    "population": "1.41 Billion",
+    "interestingFacts": "China has the longest continuous history of any civilization. The Great Wall is one of the most famous man-made structures on Earth."
+  },
+  {
+    "country": "Brazil",
+    "capital": "Brasília",
+    "population": "214 Million",
+    "interestingFacts": "Brazil is home to the Amazon Rainforest, often called the lungs of the planet. It has won the FIFA World Cup more times than any other country."
+  },
+  {
+    "country": "Japan",
+    "capital": "Tokyo",
+    "population": "125 Million",
+    "interestingFacts": "Japan blends ancient traditions with cutting-edge technology. It has one of the highest life expectancies in the world."
+  },
+  {
+    "country": "Germany",
+    "capital": "Berlin",
+    "population": "83 Million",
+    "interestingFacts": "Germany is known for its engineering excellence and strong economy. It has over 1,500 varieties of sausages and famous Oktoberfest celebrations."
+  },
+  {
+    "country": "Australia",
+    "capital": "Canberra",
+    "population": "26 Million",
+    "interestingFacts": "Australia is both a country and a continent. It is home to unique wildlife like kangaroos and koalas found nowhere else."
+  },
+  {
+    "country": "France",
+    "capital": "Paris",
+    "population": "65 Million",
+    "interestingFacts": "France is the most visited country in the world. It is famous for its cuisine, art, fashion, and iconic landmarks like the Eiffel Tower."
+  },
+  {
+    "country": "Russia",
+    "capital": "Moscow",
+    "population": "144 Million",
+    "interestingFacts": "Russia is the largest country by land area. It spans 11 time zones and has a rich cultural heritage in literature, music, and ballet."
+  }
+]
