@@ -16,7 +16,9 @@ const Header = () => {
 
       </NavLink>
     </div>
-    <img  src="world.png" alt="img" className='sm:h-110 h-20 hidden sm:inline ' />
+    <img 
+    loading='eager'
+     src="world.png" alt="img" className='sm:h-110 h-20 hidden sm:inline ' />
   </main>
     </>
   )
